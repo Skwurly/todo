@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Readme
+
+	A todo app based on a tutorial from https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3
+
